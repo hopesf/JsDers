@@ -3,7 +3,10 @@
 
 ### Java-Web ###
 ## ignoring target file
-.idea/*
+workspace.xml
+usage.statistics.xml
+shelf
+.idea
 target/
 
 # End of https://www.toptal.com/developers/gitignore/api/java-web
