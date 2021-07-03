@@ -3,7 +3,7 @@
 
 ### Java-Web ###
 ## ignoring target file
-.idea/
+.idea/*
 target/
 
 # End of https://www.toptal.com/developers/gitignore/api/java-web
